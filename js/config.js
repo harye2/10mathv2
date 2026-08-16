@@ -4,7 +4,7 @@
 
 const CONFIG = {
     // 1. URLs de las 3 APIs (Google Apps Script Deployments)
-    API_URL: "https://script.google.com/macros/s/AKfycbyA1i4N_zq1WOL2pKgnZge_AjRKO_T7nGuzv5K40E91OrKADI14XHzewhqvfvv3B0pq/exec",
+    API_URL: "https://script.google.com/macros/s/AKfycbwSqG5g-jjWRFIcZTaze8YGBPbMQNYcZJe1rKpwtslMBIPX1RbrC8a8fwTL-ccy0ZT6/exec",
     CODES_API_URL: "https://script.google.com/macros/s/AKfycbxLIusqw2MWtlD5W8GlLC5xfSF-gMRHor1_jFA094bVHI2NVZC9VCBjmdRptb-LMcA1/exec",
     NOTES_API_URL: "https://script.google.com/macros/s/AKfycbzvzZttlodHJ1VB67GvBoH4fsZhHF01ee1n2HJjiXao8-0MXrZMo4SvA4sfxzGIe3FE/exec",
 
